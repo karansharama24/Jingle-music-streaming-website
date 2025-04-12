@@ -19,4 +19,4 @@
 ## How to Run  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/karansharama.24/jingle
+   git clone https://github.com/karansharama24/Jingle-music-streaming-website
