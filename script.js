@@ -1,4 +1,4 @@
-// Creating new Play Audio 
+// Creating new Play Audio
 let current_song = new Audio();
 let waiter;
 // Seconds to Minute_Seconds Converter
